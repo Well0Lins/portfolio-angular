@@ -26,85 +26,15 @@ export class ProjectsComponent {
   public arrayProjects = signal <IProjects[]> ([
     {
       src: 'assets/img/projects/vfull.png',
-      alt: "Projeto Vida FullStack",
-      title: "Vida Fullstack",
+      alt: "EM DESENVOLVIMENTO",
+      title: "EM DESENVOLVIMENTO",
       width: '100px',
       height: '51px',
-      description: '<p>ashasuhsuahsuhuasha</p>',
+      description: '<p>PROJETO EM DESENVOLVIMENTO</p>',
       links: [
         {
-          name: 'conheça o blog',
-          href: 'www.google.com'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: "Projeto Vida FullStack",
-      title: "Vida Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '<p>ashasuhsuahsuhuasha</p>',
-      links: [
-        {
-          name: 'conheça o blog',
-          href: 'www.google.com'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: "Projeto Vida FullStack",
-      title: "Vida Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '<p>ashasuhsuahsuhuasha</p>',
-      links: [
-        {
-          name: 'conheça o blog',
-          href: 'www.google.com'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: "Projeto Vida FullStack",
-      title: "Vida Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '<p>ashasuhsuahsuhuasha</p>',
-      links: [
-        {
-          name: 'conheça o blog',
-          href: 'www.google.com'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: "Projeto Vida FullStack",
-      title: "Vida Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '<p>ashasuhsuahsuhuasha</p>',
-      links: [
-        {
-          name: 'conheça o blog',
-          href: 'www.google.com'
-        }
-      ]
-    },
-    {
-      src: 'assets/img/projects/vfull.png',
-      alt: "Projeto Vida FullStack",
-      title: "Vida Fullstack",
-      width: '100px',
-      height: '51px',
-      description: '<p>ashasuhsuahsuhuasha</p>',
-      links: [
-        {
-          name: 'conheça o blog',
-          href: 'www.google.com'
+          name: 'TESTE',
+          href: 'https://google.com'
         }
       ]
     },
